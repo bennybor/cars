@@ -6,7 +6,7 @@
 <asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">
     <h2>
         Welcome to Omri's Cars Web Site!!!
-        Omri Site.
+        Omri Best Site.
     </h2>
     <p>
         To learn more about Cars, do not close</p>
