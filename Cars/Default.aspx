@@ -5,8 +5,9 @@
 </asp:Content>
 <asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">
     <h2>
-        Welcome to ASP.NET!
-    </h2>
+        Welcome to Benny&#39;s cars</h2>
+    <p>
+        This is a change that I did</p>
     <p>
         To learn more about Cars, do not close</p>
     <p>
